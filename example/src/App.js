@@ -8,7 +8,6 @@
 // }
 
 // export default App
-
 import React, { Component } from 'react'
 import {ColoredHeadingOne, ColoredHeadingTwo} from 'democomponents'
 
